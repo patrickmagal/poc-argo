@@ -1,1 +1,2 @@
 - https://github.com/istio/istio/tree/master/samples/addons
+- istioctl dashboard kiali
